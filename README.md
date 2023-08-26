@@ -38,7 +38,7 @@ First is the intake. This is where a user will create a new ticket explaining hw
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rJbeU8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once a ticket is created, it should be assigned to the appropriate party to get resolved. When the ticket is assigned changes being made to ticket should be recorded and messages can be left so others will know what was done to the account. 
@@ -47,15 +47,15 @@ Once a ticket is created, it should be assigned to the appropriate party to get 
 
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4ENMO3A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the Ticket is assigned you can figure out how to resolve the issue. weather thatsassigning it to someone else or you doing a little research to figure out your clients problem. 
+Once the Tickets are set up. You can start selecting from the list and resolving the issues by assigning them to the correct department or handling them yourself.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EwhXcFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you fix the problem you can write a note in the ticket explaining its resolved and you can change the status of the ticket to resolved and move on to the next ticket.
+Once you fix the problem you can write a note in the ticket explaining its resolved and you can change the status of the ticket from open to resolved and move on to the next ticket.
